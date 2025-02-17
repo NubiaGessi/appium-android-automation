@@ -1,6 +1,6 @@
 # Automação de Testes Android com Appium – My Demo App
 
-Este repositório contém um projeto de automação de testes para aplicativos Android utilizando Appium.
+Este repositório contém um projeto de automação de testes utilizando Appium para o aplicativo Android My Demo App, um app fictício de e-commerce desenvolvido pela Sauce Labs.
 
 ## Estrutura do Projeto
 
